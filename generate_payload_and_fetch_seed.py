@@ -3,8 +3,8 @@ import base64
 import requests
 
 API_URL = "https://eajeyq4r3zljoq4rpovy2nthda0vtjqf.lambda-url.ap-south-1.on.aws"
-STUDENT_ID = "23A91A05E5"
-GIT_REPO = "https://github.com/prasannnna/GPP-task-2"
+STUDENT_ID = "23A91A05C4"
+GIT_REPO = "https://github.com/divya1829/23A91A05C4_TASK2"
 
 # Read student public key
 with open("student_public.pem", "r") as f:
